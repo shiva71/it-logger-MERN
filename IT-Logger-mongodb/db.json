@@ -1,0 +1,33 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "System Failure",
+      "tech": " SamSmith",
+      "attention": true,
+      "date": "2020-07-03T18:16:12.702Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": " Sam",
+      "lastName": "Smith",
+      "id": 1
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Wilson",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "firstName": " John",
+      "lastName": "Snow"
+    },
+    {
+      "id": 5,
+      "firstName": "Shiva",
+      "lastName": "Shandilya"
+    }
+  ]
+}
